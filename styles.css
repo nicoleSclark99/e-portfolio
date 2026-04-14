@@ -16,3 +16,12 @@ p{
     line-height: 1.5;
     font-size: 16px;
 }
+
+/* Navbar */
+
+nav{
+    height: 100px;
+    width: 100%;
+    max-width: 1000px;
+    text-align: center;
+}
